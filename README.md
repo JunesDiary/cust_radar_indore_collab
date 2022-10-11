@@ -1,7 +1,7 @@
 # cust_radar_indore_collab
-CU-ST Radar Location: https://www.google.com/maps/place/Ionosphere+Field+Station/@22.9357054,88.5073942,17z/data=!3m1!4b1!4m5!3m4!1s0x39f8bfa93a6a4a85:0x48f156e9dcb05e24!8m2!3d22.9357114!4d88.5095822
-CU-ST Radar 
-Site: custr.org
+-CU-ST Radar Location: https://www.google.com/maps/place/Ionosphere+Field+Station/@22.9357054,88.5073942,17z/data=!3m1!4b1!4m5!3m4!1s0x39f8bfa93a6a4a85:0x48f156e9dcb05e24!8m2!3d22.9357114!4d88.5095822
+-CU-ST Radar Site: custr.org
+
 Work under the collaboration of Calcutta University and IIT-Indore
 
 
