@@ -17,3 +17,5 @@ Work under the collaboration of Calcutta University and IIT-Indore
    - Working on best possible dates for solar tracking by finding the elevation and azimuth of sun in the month of October. 
    
 <img src="https://user-images.githubusercontent.com/76748505/195093245-40e9df83-c7e9-4e24-b3e3-b052483d861e.png" alt="20th October Solar El/Az" width="300"/>
+
+<img src="https://user-images.githubusercontent.com/76748505/195094153-84813494-0bcb-4c6f-ac6d-f23eea8107d0.png" alt="21st October Solar El/Az" width="300"/>
