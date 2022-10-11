@@ -6,7 +6,7 @@ Work under the collaboration of Calcutta University and IIT-Indore
 
    - First Meeting: Date - 7:30 AM IST, 8th October, 2022. Agenda: CU-ST Radar, a preview as a Passive Antenna.
    
-2. Antenna Measurements and Designing Task (Date - 11th October, 2022). 
+2. Antenna Measurements and Designing Task (as an exercise) (Date - 11th October, 2022). 
 
    - Performed Antenna Measurement for a 4GHz C Band Horn Antenna. 
    - Designing of Parabolic Reflector Antenna with Horn feed and Dipole Feed in CST MIcrowave Studio (Student version) and MATLAB. Files are attached as code.
