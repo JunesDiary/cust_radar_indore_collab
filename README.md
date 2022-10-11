@@ -14,7 +14,7 @@ Work under the collaboration of Calcutta University and IIT-Indore
 3. Passive Mode Operation of ST Radar (Date - 12th October, 2022).
 
    - Studying the CU-ST Radar Electronics for performing Sun Tracking Experiment.
-   - Working on best possible dates for solar tracking by finding the elevation and azimuth of sun in the month of October. 
+   - Working on best possible dates for solar tracking by finding the elevation and azimuth of sun in the month of October. Using Reference Site: https://keisan.casio.com/exec/system/1224682277
    
 20th October, 2022 (LEFT) and 21st October, 2022 (RIGHT)
 <p align="center" float="left">
