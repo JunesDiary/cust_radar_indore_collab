@@ -32,3 +32,4 @@ Work under the collaboration of Calcutta University and IIT-Indore
 
    - Proposing changes in electronics of the radar and upgrades for a u-CU-ST Radar with increased sensitivity (upgraded CU-ST Radar).
    - Simulating proposed radar system in Advanced Design Systems (Keysight) for proof of concept.
+   - References: https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1836.html , https://web.njit.edu/~gary/728/Lecture5.html
