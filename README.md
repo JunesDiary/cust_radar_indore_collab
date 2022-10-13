@@ -27,6 +27,6 @@ Work under the collaboration of Calcutta University and IIT-Indore
   <img src="https://user-images.githubusercontent.com/76748505/195094153-84813494-0bcb-4c6f-ac6d-f23eea8107d0.png" width="300" /> 
 </p>
 
-4. Analysis of electronics and sugesting upgrades for improving the noise figure of the  (Date - 12th October, 2022).
+4. Analysis of electronics and sugesting upgrades for improving the noise figure of the CU-ST Radar (Date - 12th October, 2022).
 
    - Working
