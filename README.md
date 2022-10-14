@@ -28,8 +28,11 @@ Work under the collaboration of Calcutta University and IIT-Indore
 </p>
    
    
-4. Analysis of electronics and sugesting upgrades for improving the noise figure of the CU-ST Radar (Date - 13th October, 2022).
+4. Analysis of electronics and sugesting upgrades for improving the noise figure of the CU-ST Radar (Date - 13th, 14th October, 2022).
 
    - Proposing changes in electronics of the radar and upgrades for a u-CU-ST Radar with increased sensitivity (upgraded CU-ST Radar).
    - Simulating proposed radar system in Advanced Design Systems (Keysight) for proof of concept.
    - References: https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1836.html , https://web.njit.edu/~gary/728/Lecture5.html
+   
+5. Calculation of Astronomical Source Elevation and Azimuth with respect to a place on earth (Date - 14th October, 2022)
+   - Learning this is an exercise. Guided by Dr. Narendranath Patra.
