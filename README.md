@@ -6,9 +6,9 @@ CU-ST Radar Site: https://custr.org/
 Work under the collaboration of Calcutta University and IIT-Indore
 
 
-1. Offline Work begins 7th October, 2022. 
+1. Introduction: Offline Work begins 7th October, 2022. 
 
-   - First Meeting: Date - 7:30 AM IST, 8th October, 2022. Agenda: CU-ST Radar, a preview as a Passive Antenna.
+   - First Meeting: Date - 7:30 AM IST, 8th October, 2022. Agenda: CU-ST Radar as a Passive Antenna.
    
 2. Antenna Measurements and Designing Task (as an exercise) (Date - 11th October, 2022). 
 
@@ -19,20 +19,22 @@ Work under the collaboration of Calcutta University and IIT-Indore
 
    - Studying the CU-ST Radar Electronics for performing Sun Tracking Experiment.
    - Working on best possible dates for solar tracking by finding the elevation and azimuth of sun in the month of October. Using Reference Site: https://keisan.casio.com/exec/system/1224682277
-   - Produced a experiment scheme on how to perform the experiment for 15th October, 2022 for sun tracking with single beam for tracking.
-   - Second meeting: Date: 9:00 PM IST, 13th October, 2022. Agenda: Single and multi point sun-tracking using single beam in DBS Mode at CU-ST Radar.
+   - Produced a experiment scheme on how to perform the experiment for 15th October, 2022 and 17th October, 2022 for sun tracking with single beam and multi beam for tracking simulaneously.
+   - Second meeting: Date: 9:00 PM IST, 13th October, 2022. Agenda: Single and multi beam sun-tracking in DBS Mode at CU-ST Radar.
 
 <p align="center" float="left">
-  <img src="https://user-images.githubusercontent.com/76748505/195665677-f9666ba7-1898-46f1-a76c-6f761f7eb21d.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/76748505/198179907-23214ef1-5360-40cd-959f-73644a1f2230.png" />
   <img src="https://user-images.githubusercontent.com/76748505/195666066-4cf688e3-62eb-470c-9757-b21c175886e7.png" width="300" /> 
 </p>
    
    
 4. Analysis of electronics and sugesting upgrades for improving the noise figure of the CU-ST Radar (Date - 13th, 14th October, 2022).
 
-   - Proposing changes in electronics of the radar and upgrades for a u-CU-ST Radar with increased sensitivity (upgraded CU-ST Radar).
-   - Simulating proposed radar system in Advanced Design Systems (Keysight) for proof of concept.
+   - Proposing changes in electronics of the radar and upgrades for a u-CU-ST Radar with increased sensitivity (upgraded CU-ST Radar) (Done)
+   - Simulating proposed radar system in Advanced Design Systems (Keysight) for proof of concept (Ongoing)
    - References: https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1836.html , https://web.njit.edu/~gary/728/Lecture5.html
    
 5. Calculation of Astronomical Source Elevation and Azimuth with respect to a place on earth (Date - 14th October, 2022)
-   - Learning this is an exercise. Guided by Dr. Narendranath Patra.
+   - Learning this as an exercise. Guided by Dr. Narendranath Patra.
+
+6. Passive mode operation on site at CU-ST Radar: 15th October, 2022 and 17th December, 2022.
